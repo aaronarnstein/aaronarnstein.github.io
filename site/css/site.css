@@ -1,0 +1,30 @@
+
+
+
+
+
+body{
+    background: #8AB9F1;
+    color: #FFFFFF; 
+    font-family: 'Abysinica SIL'
+
+}
+
+h1{
+    font-family: 'Abysinica SIL'
+}
+
+
+
+/* a{
+    color:red;
+} */
+
+
+
+nav a{
+    color: #ffffff;
+    text-transform: uppercase;
+
+    font-size: .8em;
+}

@@ -1,4 +1,30 @@
- body{background-color: gray;;}
+/* 
+h1,
+.address,
+footer{
+  
+} */
+
+h1{
+   color:red;
+}
+
+.box,
+.lighter-box{
+   font-size:.8em;
+   font-family: 'Orbitron', sans-serif;
+}
+
+.box{
+   background-color:gray;
+}
+.lighter-box{
+   background-color: lightgray;
+}
+
+
+/* body{
+   background-color: gray;}
  
  h1 {
 
@@ -27,4 +53,4 @@ img {
    border: 8px;
 }
 
-  
+   */
