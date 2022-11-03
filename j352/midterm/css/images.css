@@ -1,0 +1,122 @@
+text {
+    font-size: 15px;
+}
+
+header {
+    font-family: 'Work Sans';
+    margin: 10 5;
+}
+
+.nav {
+    font-family: 'Poppins';
+    align: center;
+    font-size: 2em, 600px;
+}
+
+body {
+    background: #F4F5F8;
+    color: #152128;
+    font-family: 'Literata';
+}
+
+h1 {
+    padding-bottom: 5px;
+    font-size: 1.5em, 300px;
+}
+
+.big-text {
+    display: block;
+    letter-spacing: 2px;
+    font-size: 1.5em, 500px;
+}
+
+h2 {
+    padding-bottom: 5px;
+    font-size: 1em, 200px;
+}
+
+.spotify {
+    accent-color: #1DB954
+}
+
+.byline {
+    font-size: 0.9em, 300px;
+}
+
+h3 {
+    font-size: 1.5em, 300px;
+}
+
+.graphics {
+    font-family: 'Work Sans';
+    background: #EAEAEA;
+}
+
+.graphic-a {
+    background: grey;
+    padding: 3 3;
+}
+
+.graphic-b {
+    border-bottom: dashed #9DB4AB;
+    padding: 3 3;
+}
+
+footer {
+    font-family: 'Work Sans'
+    margin: 3 7;
+    font-weight: lighter;
+    font-size: 1em, 200px;
+}
+
+a{
+
+    text: black;
+}
+/* 
+
+.spacing {
+    margin: 10px;
+}
+
+.menu {
+    text-align: center;
+}
+
+.picture {
+    margin: 10px;
+}
+
+h1 {
+    margin: 10px;
+}
+
+h3 {
+    margin: 10px;
+}
+
+h5 {
+    margin: 10px;
+}
+
+h7 {
+    margin: 10px;
+}
+
+.navbar-nav {
+    margin: 10px;
+    font-size: 23px;
+}
+
+p {
+    margin: 10px;
+}
+
+.resume-list {
+    margin: 15px;
+}
+
+* a {
+    color: #ffffff;
+}
+*/
