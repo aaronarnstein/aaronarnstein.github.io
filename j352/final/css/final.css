@@ -2,51 +2,46 @@
 body {
    font-family: 'Times New Roman', sans-serif;
    text-align: center;
+   color: black;
+
 }
 
-p:first-of-type:first-letter {
-   font-family: 'Times New Roman', sans-serif;
-   text-align: center; 
+.dropcap:first-letter {
+   font-weight: 1000;
+   font-size: 4em;
+
 }
 
 h1 {
-
-   font-family: 'Times New Roman', sans-serif;
-
-   color: black;
-
    font-size: 4em;
-
-   text-align: center;
-}
-
-@media (max-width: 400px) {
-   h1 {
-      font-size: 1em;
-   }
 
 }
 
 h4 {
-
-   font-family: 'Times New Roman', sans-serif;
    font-weight: 800;
    text-transform: uppercase;
    font-size: 0.8em;
-   text-align: center;
 
 }
 
 blockquote {
-   margin: 0;
-   padding: 0;
-   color: black
-   font-family: 'Times New Roman', sans-serif;
-   text-align: center;
+   font-weight: 1000;
+   font-size: 2em;
 
  }
 
 .header-one {
    text-align: left;
    font-size: 2.5em;
+
+}
+
+
+@media (max-width: 400px) {
+   h1 {
+      font-size: 1em; 
+   }
+   blockquote {
+      font-size: 2em;
+   }
 }
